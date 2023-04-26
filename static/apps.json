@@ -48,5 +48,15 @@
         "title": "Y8",
         "img": "./img/apps/y8.png",
         "location": "https://www.y8.com"
+    },
+        {
+        "title": "SoundCloud",
+        "img": "./img/apps/SOUNDCLOUD.png",
+        "location": "https://soundcloud.com/discover"
+    },
+        {
+        "title": "CrazyGames",
+        "img": "./img/apps/yes.png",
+        "location": "https://www.crazygames.com"
     }
 ]

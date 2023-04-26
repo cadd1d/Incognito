@@ -14,5 +14,9 @@
     {
         "question": "Why is GeForce Now is responding with \"403 Access Denied\"",
         "answer": "At the moment, too many people are using GeForce Now on our servers. Try again later."
+    },
+        {
+        "question": "Want to contact me? ",
+        "answer": "Add me on Discord Donk#0479"
     }
 ]
